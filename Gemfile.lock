@@ -41,7 +41,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2022.0105)
     multi_test (1.1.0)
-    rake (10.5.0)
+    rake (12.3.3)
     redcarpet (3.6.0)
     sys-uname (1.2.2)
       ffi (~> 1.1)
@@ -55,9 +55,9 @@ PLATFORMS
 
 DEPENDENCIES
   gherkin (>= 4.0, < 6.0)
-  rake (~> 10)
+  rake (~> 12)
   redcarpet
   yard-cucumber!
 
 BUNDLED WITH
-   2.4.5
+   2.4.8

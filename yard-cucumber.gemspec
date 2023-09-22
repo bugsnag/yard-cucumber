@@ -54,7 +54,7 @@ Gem::Specification.new do |s|
 
 }
 
-  s.add_development_dependency 'rake', '~> 10'
+  s.add_development_dependency 'rake', '~> 12'
 
   s.add_dependency 'cucumber', '>= 2.0', '< 9.0'
   s.add_dependency 'yard', '~> 0.8', '>= 0.8.1'
