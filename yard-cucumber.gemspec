@@ -56,7 +56,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'rake', '~> 12'
 
-  s.add_dependency 'cucumber', '>= 2.0', '< 9.0'
+  s.add_dependency 'cucumber', '>= 2.0', '< 10.0'
   s.add_dependency 'yard', '~> 0.9.20', '>= 0.9.20'
 
   s.rubygems_version   = "1.3.7"
