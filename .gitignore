@@ -1,5 +1,6 @@
 # Ignore any built gems that are laying around
 *.gem
+Gemfile.lock
 
 # Documents folder
 doc
